@@ -14,7 +14,7 @@
 
       <p v-if="actualizacion">Ultima cotizacion: {{ ultActualizacion }}</p>
 
-      <h3>Valor en dólares: USD {{ conversionDolar }}</h3>
+      <h3>Valor en dolares: USD {{ conversionDolar }}</h3>
     </div>
   </section>
 </template>

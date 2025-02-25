@@ -1,7 +1,7 @@
 <template>
-  <div class="contenedor">
+  <div class="container">
     <ConversorDolar/>
-    <p> 1:c, 2:b, 3:c, 4:a</p>
+    <p>RESPUESTAS = 1:c, 2:b, 3:c, 4:a</p>
   </div>
 </template>
 
